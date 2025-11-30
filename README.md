@@ -49,14 +49,14 @@ Browse solutions by your sector and needs:
 
 | Solution | Status | Integration | Quick Deploy |
 |----------|--------|-------------|--------------|
-| [Citizen Service Assistant](./citizen-service-assistant) | ✅ Production | Civica, NEC, Salesforce | Azure/AWS |
-| [Planning Application Analyser](./planning-analyser-ai) | ✅ Production | Idox, NEC Assure, Arcus | Cloud/Hybrid |
-| [Benefits Navigator](./benefits-navigator) | ✅ Production | Civica, Capita, DWP APIs | Cloud |
-| [Council Tax Collection AI](./council-tax-ai) | ✅ Production | Civica, NEC Revenues | Cloud/Hybrid |
-| [FOI Manager](./foi-manager-ai) | ✅ Production | iCasework, SharePoint | Cloud |
-| [Social Care Case AI](./social-care-case-ai) | ✅ Production | Social care systems | Azure UK |
-| [Meeting Intelligence](./meeting-intelligence-ai) | ✅ Production | Teams, Zoom, Modern.gov | Cloud |
-| [Contact Centre AI](./contact-centre-ai) | ✅ Production | Avaya, Mitel, 8x8 | Cloud/On-prem |
+| [Citizen Service Assistant](https://github.com/maree217/citizen-service-assistant) | ✅ Production | Civica, NEC, Salesforce | Azure/AWS |
+| [Planning Application Analyser](https://github.com/maree217/planning-analyser-ai) | ✅ Production | Idox, NEC Assure, Arcus | Cloud/Hybrid |
+| [Benefits Navigator](https://github.com/maree217/benefits-navigator) | ✅ Production | Civica, Capita, DWP APIs | Cloud |
+| [Council Tax Collection AI](https://github.com/maree217/council-tax-ai) | ✅ Production | Civica, NEC Revenues | Cloud/Hybrid |
+| [FOI Manager](https://github.com/maree217/foi-manager-ai) | ✅ Production | iCasework, SharePoint | Cloud |
+| [Social Care Case AI](https://github.com/maree217/social-care-case-ai) | ✅ Production | Social care systems | Azure UK |
+| [Meeting Intelligence](https://github.com/maree217/meeting-intelligence-ai) | ✅ Production | Teams, Zoom, Modern.gov | Cloud |
+| [Contact Centre AI](https://github.com/maree217/contact-centre-ai) | ✅ Production | Avaya, Mitel, 8x8 | Cloud/On-prem |
 
 [View all Local Government solutions →](./sectors/local-government.md)
 
@@ -68,14 +68,14 @@ Browse solutions by your sector and needs:
 
 | Solution | Status | Integration | Quick Deploy |
 |----------|--------|-------------|--------------|
-| [Tenant Portal Intelligence](./tenant-portal-ai) | ✅ Production | Civica Cx, NEC, MRI, Aareon | Cloud |
-| [Repairs Scheduler](./repairs-scheduler-ai) | ✅ Production | Oneserve, Totalmobile, DRS | Cloud/Hybrid |
-| [Arrears Predictor](./arrears-predictor-ai) | ✅ Production | Housing management systems | Cloud |
-| [Compliance Tracker](./compliance-tracker-ai) | ✅ Production | HMS, contractor portals | Cloud |
-| [Disrepair Claims Analyser](./disrepair-claims-ai) | ✅ Production | HMS, legal case mgmt | Azure UK |
-| [Tenancy Application Processor](./tenancy-application-ai) | ✅ Production | HMS, credit reference | Cloud |
-| [Void Turnaround Manager](./void-turnaround-ai) | ✅ Production | HMS, repairs systems | Cloud/Hybrid |
-| [Tenant 360 View](./tenant-360-ai) | ✅ Production | All HMS systems | Cloud |
+| [Tenant Portal Intelligence](https://github.com/maree217/tenant-portal-ai) | ✅ Production | Civica Cx, NEC, MRI, Aareon | Cloud |
+| [Repairs Scheduler](https://github.com/maree217/repairs-scheduler-ai) | ✅ Production | Oneserve, Totalmobile, DRS | Cloud/Hybrid |
+| [Arrears Predictor](https://github.com/maree217/arrears-predictor-ai) | ✅ Production | Housing management systems | Cloud |
+| [Compliance Tracker](https://github.com/maree217/compliance-tracker-ai) | ✅ Production | HMS, contractor portals | Cloud |
+| [Disrepair Claims Analyser](https://github.com/maree217/disrepair-claims-ai) | ✅ Production | HMS, legal case mgmt | Azure UK |
+| [Tenancy Application Processor](https://github.com/maree217/tenancy-application-ai) | ✅ Production | HMS, credit reference | Cloud |
+| [Void Turnaround Manager](https://github.com/maree217/void-turnaround-ai) | ✅ Production | HMS, repairs systems | Cloud/Hybrid |
+| [Tenant 360 View](https://github.com/maree217/tenant-360-ai) | ✅ Production | All HMS systems | Cloud |
 
 [View all Housing Association solutions →](./sectors/housing-associations.md)
 
@@ -87,14 +87,14 @@ Browse solutions by your sector and needs:
 
 | Solution | Status | Integration | Quick Deploy |
 |----------|--------|-------------|--------------|
-| [Grant Application Assistant](./grant-application-ai) | ✅ Production | Sage, Xero, Salesforce NPSP | Cloud |
-| [Beneficiary Support Chatbot](./beneficiary-chatbot-ai) | ✅ Production | CRM, case management | Cloud |
-| [Donor Communications](./donor-comms-ai) | ✅ Production | Mailchimp, Salesforce | Cloud |
-| [Impact Reporter](./impact-reporter-ai) | ✅ Production | Lamplight, Salesforce NPSP | Cloud |
-| [Volunteer Management AI](./volunteer-management-ai) | ✅ Production | Assemble, Better Impact | Cloud |
-| [Safeguarding Processor](./safeguarding-processor-ai) | ✅ Production | HR systems, DBS | Azure UK |
-| [Charity Helpline AI](./charity-helpline-ai) | ✅ Production | Contact centre systems | Cloud |
-| [Fundraising Appeal Generator](./fundraising-appeal-ai) | ✅ Production | CRM, donor databases | Cloud |
+| [Grant Application Assistant](https://github.com/maree217/grant-application-ai) | ✅ Production | Sage, Xero, Salesforce NPSP | Cloud |
+| [Beneficiary Support Chatbot](https://github.com/maree217/beneficiary-chatbot-ai) | ✅ Production | CRM, case management | Cloud |
+| [Donor Communications](https://github.com/maree217/donor-comms-ai) | ✅ Production | Mailchimp, Salesforce | Cloud |
+| [Impact Reporter](https://github.com/maree217/impact-reporter-ai) | ✅ Production | Lamplight, Salesforce NPSP | Cloud |
+| [Volunteer Management AI](https://github.com/maree217/volunteer-management-ai) | ✅ Production | Assemble, Better Impact | Cloud |
+| [Safeguarding Processor](https://github.com/maree217/safeguarding-processor-ai) | ✅ Production | HR systems, DBS | Azure UK |
+| [Charity Helpline AI](https://github.com/maree217/charity-helpline-ai) | ✅ Production | Contact centre systems | Cloud |
+| [Fundraising Appeal Generator](https://github.com/maree217/fundraising-appeal-ai) | ✅ Production | CRM, donor databases | Cloud |
 
 [View all Third Sector solutions →](./sectors/third-sector.md)
 
@@ -106,13 +106,13 @@ Browse solutions by your sector and needs:
 
 | Solution | Status | Integration | Sectors |
 |----------|--------|-------------|---------|
-| [HR Policy Assistant](./hr-policy-assistant) | ✅ Production | iTrent, ResourceLink, People HR | All |
-| [Recruitment Screening](./recruitment-screening-ai) | ✅ Production | Tribepad, Jobtrain, Networx | All |
-| [Employee 360 Dashboard](./employee-360-dashboard) | ✅ Production | HR, Payroll, Training systems | All |
-| [Supervision Assistant](./supervision-assistant-ai) | ✅ Production | HR, case management | All |
-| [Exit Interview Analyser](./exit-interview-ai) | ✅ Production | Survey tools, HR systems | All |
-| [Workforce Matcher](./workforce-matcher-ai) | ✅ Production | HR, LMS, talent platforms | All |
-| [Agency Contractor Manager](./agency-contractor-ai) | ✅ Production | Matrix, Guidant, finance | All |
+| [HR Policy Assistant](https://github.com/maree217/hr-policy-assistant) | ✅ Production | iTrent, ResourceLink, People HR | All |
+| [Recruitment Screening](https://github.com/maree217/recruitment-screening-ai) | ✅ Production | Tribepad, Jobtrain, Networx | All |
+| [Employee 360 Dashboard](https://github.com/maree217/employee-360-dashboard) | ✅ Production | HR, Payroll, Training systems | All |
+| [Supervision Assistant](https://github.com/maree217/supervision-assistant-ai) | ✅ Production | HR, case management | All |
+| [Exit Interview Analyser](https://github.com/maree217/exit-interview-ai) | ✅ Production | Survey tools, HR systems | All |
+| [Workforce Matcher](https://github.com/maree217/workforce-matcher-ai) | ✅ Production | HR, LMS, talent platforms | All |
+| [Agency Contractor Manager](https://github.com/maree217/agency-contractor-ai) | ✅ Production | Matrix, Guidant, finance | All |
 
 [View all HR solutions →](./functions/human-resources.md)
 
@@ -124,12 +124,12 @@ Browse solutions by your sector and needs:
 
 | Solution | Status | Integration | Sectors |
 |----------|--------|-------------|---------|
-| [Project Intelligence Assistant](./project-intelligence-ai) | ✅ Production | MS Project, Smartsheet, Jira | All |
-| [Programme Risk Monitor](./programme-risk-ai) | ✅ Production | 4Risk, Pentana, risk registers | All |
-| [Meeting Intelligence Suite](./meeting-intelligence-ai) | ✅ Production | Teams, Zoom, Google Meet | All |
-| [Resource Capacity Planner](./resource-planner-ai) | ✅ Production | Resource mgmt, HR, PM tools | All |
-| [Bid & Business Case Writer](./bid-writer-ai) | ✅ Production | Document mgmt, finance | All |
-| [Lessons Learned Repository](./lessons-learned-ai) | ✅ Production | PM tools, SharePoint | All |
+| [Project Intelligence Assistant](https://github.com/maree217/project-intelligence-ai) | ✅ Production | MS Project, Smartsheet, Jira | All |
+| [Programme Risk Monitor](https://github.com/maree217/programme-risk-ai) | ✅ Production | 4Risk, Pentana, risk registers | All |
+| [Meeting Intelligence Suite](https://github.com/maree217/meeting-intelligence-ai) | ✅ Production | Teams, Zoom, Google Meet | All |
+| [Resource Capacity Planner](https://github.com/maree217/resource-planner-ai) | ✅ Production | Resource mgmt, HR, PM tools | All |
+| [Bid & Business Case Writer](https://github.com/maree217/bid-writer-ai) | ✅ Production | Document mgmt, finance | All |
+| [Lessons Learned Repository](https://github.com/maree217/lessons-learned-ai) | ✅ Production | PM tools, SharePoint | All |
 
 [View all PM solutions →](./functions/project-management.md)
 
