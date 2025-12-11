@@ -9,6 +9,7 @@ Browse solutions by your sector and needs:
 - **[Local Government Solutions](#local-government)**
 - **[Housing Association Solutions](#housing-associations)**
 - **[Third Sector Solutions](#third-sector)**
+- **[Government Agencies](#government-agencies)** (ACAS, etc.)
 - **[HR Solutions](#human-resources)** (Cross-sector)
 - **[Project Management Solutions](#project-management)** (Cross-sector)
 
@@ -97,6 +98,23 @@ Browse solutions by your sector and needs:
 | [Fundraising Appeal Generator](https://github.com/maree217/fundraising-appeal-ai) | ✅ Production | CRM, donor databases | Cloud |
 
 [View all Third Sector solutions →](./sectors/third-sector.md)
+
+---
+
+## Government Agencies
+
+### Priority Solutions
+
+| Solution | Status | Integration | Quick Deploy |
+|----------|--------|-------------|--------------|
+| [ACAS Employment Rights Assistant](https://github.com/maree217/ACAS-Chatbot) | ✅ Production | GOV.UK, CRM | Cloud |
+| [Portfolio Site](https://acas-ai-portfolio.web.app) | ✅ Live Demo | - | Firebase |
+
+**ACAS Employment Rights Assistant**
+- RAG-powered chatbot for employment law queries
+- 42 ACAS guidance documents indexed
+- Confidence scoring and source citations
+- [Live Demo →](https://acas-chatbot-demo.web.app)
 
 ---
 
